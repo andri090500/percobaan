@@ -1,0 +1,2 @@
+# percobaan
+mencoba membuat txt
